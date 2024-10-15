@@ -1,4 +1,4 @@
-name: d:\__STUDIA__\__INFA__\7_sem\MRO\.conda
+name: mro_env
 channels:
   - conda-forge
   - defaults
