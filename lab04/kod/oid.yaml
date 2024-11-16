@@ -1,0 +1,8 @@
+
+path: D:\__STUDIA__\__INFA__\7_sem\MRO\lab04\kod
+train: training_data/images/train
+val: training_data/images/val
+test: 
+
+names:
+  0: Food
